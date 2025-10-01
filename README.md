@@ -15,4 +15,8 @@ INTEGRANTE 2
 
 <img width="1919" height="1032" alt="Captura de pantalla 2025-10-01 162233" src="https://github.com/user-attachments/assets/abf22aa6-c780-4982-9d69-cfc3489c1c8a" />
 
+INTEGRANTE 3
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e63799fd-5e09-4cdc-99fb-2e46238dfc5b" />
+<img width="921" height="240" alt="image" src="https://github.com/user-attachments/assets/fc24bc14-7b04-4aad-bd75-37fa271fbaea" />
+
 
