@@ -9,3 +9,10 @@ Integrante 1:
 
 <img width="1919" height="1079" alt="Captura de pantalla 2025-10-01 162156" src="https://github.com/user-attachments/assets/295fe07f-0862-49ff-9b5f-eef1e94f291d" />
 
+
+INTEGRANTE 2
+<img width="1915" height="1011" alt="Captura de pantalla 2025-10-01 162200" src="https://github.com/user-attachments/assets/9fa19859-8b7c-46d5-bda3-1d95395d8137" />
+
+<img width="1919" height="1032" alt="Captura de pantalla 2025-10-01 162233" src="https://github.com/user-attachments/assets/abf22aa6-c780-4982-9d69-cfc3489c1c8a" />
+
+
